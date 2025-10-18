@@ -1,4 +1,4 @@
-kgtigg<!-- AKHIR SIDEBAR -->
+<!-- AKHIR SIDEBAR -->
 <script src="js/script.js"></script>
 <!-- JS BOOTSTRAPS -->
 <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
